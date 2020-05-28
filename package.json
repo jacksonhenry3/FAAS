@@ -1,0 +1,25 @@
+{
+  "name": "faas",
+  "version": "1.0.0",
+  "description": "Fortune As A Service",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonhenry3/FAAsJ.git"
+  },
+  "keywords": [
+    "fortune"
+  ],
+  "author": "Jackson Henry & Steven Kalt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacksonhenry3/FAAsJ/issues"
+  },
+  "homepage": "https://github.com/jacksonhenry3/FAAsJ#readme",
+  "devDependencies": {
+    "now": "^19.0.1"
+  }
+}
