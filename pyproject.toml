@@ -9,7 +9,7 @@ description = ""
 name = "faas"
 version = "0.1.0"
 [tool.poetry.dependencies]
-flask = "^1.1"
+flask = "^2.2"
 python = "^3.7"
 fastapi = "^0.55.1"
 [tool.poetry.dev-dependencies]
